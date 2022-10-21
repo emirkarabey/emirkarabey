@@ -5,7 +5,7 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=emirkarabey&color=green" alt="emirkarabey :: Profile Stats"></a>
 <a href="https://www.linkedin.com/in/emir-karabey-719293205/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@emirkarabey-blue?style=flat&logo=linkedin%22%3E"</a>
-<a href="mailto:emir.karabey123@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-emir.karabey1@hotmail.com-blue?style=flat&logo=gmail%22%3E"</a>
+<a href="mailto:emir.karabey123@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-emir.karabey123@gmail.com-blue?style=flat&logo=gmail%22%3E"</a>
 </p>
 
 
